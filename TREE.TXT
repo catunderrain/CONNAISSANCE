@@ -1,0 +1,16 @@
+CONNAISSANCE 
+| 
+|   MAKE_TREE.BAT
+|   README.MD
+|   TREE.txt
+|   WEB.BAT
+|   
++---BATCH
+|       SYSTEM_INFO.bat
+|       tempCodeRunnerFile.bat
+|       
++---HTML_CSS_JS_PHP
++---PYTHON
+\---UNIVERSITA
+    +---TGM
+    \---THHT
